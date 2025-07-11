@@ -6,7 +6,7 @@
   <img src="docs/figs/mapping.gif" alt="Lithological Mapping" width="500"/>
 </p>
 
-<p align="center"><em>Applications in the Hudson Bay Lowland and Southwestern Manitoba</em></p>
+<p align="center"><em>Applications in the Hudson Bay Lowland and Southwestern Manitoba, Canada</em></p>
 
 ---
 
@@ -84,4 +84,4 @@ geoformer/
 
 ## 📬 Citation
 > L. Ding, G. Bellefleur, O. Boulanger, P. Vo (2025). Supervised Swin Transformer-Based Predictive Lithological Mapping 
-> and Uncertainty Quantification Using Aeromagnetic and Gravity Data.  _in preparation_. 
+> and Uncertainty Quantification Using Aeromagnetic and Gravity Data.  _submitted_. 
