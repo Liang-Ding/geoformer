@@ -8,7 +8,7 @@
   <img src="docs/figs/mapping.gif" alt="Lithological Mapping" width="500"/>
 </p>
 
-<p align="center"><em>Applications in the Hudson Bay Lowland and Southwestern Manitoba, Canada</em></p>
+<p align="center"><em>Applications in the Hudson Bay Lowlands and Southwestern Manitoba, Canada</em></p>
 
 ---
 
