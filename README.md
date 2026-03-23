@@ -4,6 +4,27 @@
 
 **Predictive Lithological Mapping and Uncertainty Quantification with Deep Learning**
 
+---
+
+## 📬 Citation
+If you use this repository in your research, please cite our research paper.
+
+>Ding, L., Bellefleur, G., Boulanger, O., & Vo, P. (2026). Supervised Swin Transformer-Based Predictive Lithological Mapping and Uncertainty Quantification Using Aeromagnetic and Gravity Data. *Journal of Geophysical Research: Machine Learning and Computation*, **3**, e2025JH000882. https://doi.org/10.1029/2025JH000882
+
+### Suggested citation
+
+```bibtex
+@article{Ding2026,
+  author  = {Liang Ding and Gilles Bellefleur and Olivier Boulanger and Phuong Vo},
+  title   = {{Supervised Swin Transformer-Based Predictive Lithological Mapping and Uncertainty Quantification Using Aeromagnetic and Gravity Data}},
+  journal = {Journal of Geophysical Research: Machine Learning and Computation},
+  year    = {2026a},
+  volume  = {3},
+  pages   = {e2025JH000882},
+  doi     = {10.1029/2025JH000882}
+}
+```
+
 <p align="center">
   <img src="docs/figs/mapping.gif" alt="Lithological Mapping" width="500"/>
 </p>
@@ -81,9 +102,3 @@ geoformer/
     ├──dataloaders/        # The dataloaders
     └── ...
 ```
-
----
-
-## 📬 Citation
-> L. Ding, G. Bellefleur, O. Boulanger, P. Vo (2025). Supervised Swin Transformer-Based Predictive Lithological Mapping 
-> and Uncertainty Quantification Using Aeromagnetic and Gravity Data.  _submitted_. 
