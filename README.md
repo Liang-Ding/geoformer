@@ -18,7 +18,7 @@ If you use this repository in your research, please cite our research paper.
   author  = {Liang Ding and Gilles Bellefleur and Olivier Boulanger and Phuong Vo},
   title   = {{Supervised Swin Transformer-Based Predictive Lithological Mapping and Uncertainty Quantification Using Aeromagnetic and Gravity Data}},
   journal = {Journal of Geophysical Research: Machine Learning and Computation},
-  year    = {2026a},
+  year    = {2026},
   volume  = {3},
   pages   = {e2025JH000882},
   doi     = {10.1029/2025JH000882}
